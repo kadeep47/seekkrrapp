@@ -1,0 +1,190 @@
+so i have applied for a position where i have cleared the online test 
+
+the jd is as follow :
+Software Engineer - Python, AWS (Remote)
+
+
+
+Minimum Experience: 
+
+Python: 1 year
+Flask framework: 1 year
+Database: 1 year
+AWS: 1 year
+Coding leveraging LLMs/AI CoPilots: 1 year
+React.js - 1 year (optional)
+
+
+Salary: INR 17,00,000 - INR 20,00,000 per annum (based on experience and performance)
+
+
+Company Overview:
+We are an innovative, Agentic AI B2B SaaS startup specializing in account-based marketing (ABM), based in San Francisco. Our mission is to revolutionize the way businesses approach marketing by leveraging cutting-edge Agentic AI and data-driven insights. As a fully remote company, we foster a collaborative and inclusive work culture that values creativity, teamwork, and continuous learning. We offer generous benefits, including bonuses and start-up equity, to our dedicated employees.
+
+
+We empower B2B organizations to unlock the full potential of their marketing efforts. Our cutting-edge platform combines advanced data analytics, Agentic workflows insights, and personalized targeting to help businesses identify, engage, and convert their most valuable accounts. By focusing on individual accounts rather than broad target segments, companies can drive higher conversion rates, accelerate sales cycles, and maximize their marketing ROI. Join us on our mission to revolutionize B2B marketing and help businesses thrive in a hyper-personalized digital Agentic landscape.
+
+
+Role Overview:
+As a Software Engineer specializing in Python and AWS, you will play a critical role in implementing and maintaing the infrastructure and deployment pipelines for our Agentic AI B2B SaaS platform. Working remotely, you will collaborate with cross-functional teams, and drive the delivery of robust and scalable Backend and DevOps solutions.
+
+
+Responsibilities:
+Maintain, manage and write code using LLMs, AI Copilots, AI Agents to develop features as per customer requirements
+Drive feature development from planning and design to implementation, testing, and deployment.
+Write code to optimize application architectures for scalability, performance, and security.
+Stay up-to-date with emerging technologies, trends, and best practices in LLMs, AI Agents, AWS, DevOps, and cloud infrastructure.
+Document technical designs, implementation details, and operational procedures to facilitate knowledge sharing and future maintenance.
+
+
+Requirements:
+Advanced problem-solving skills and proven experience (1+ year) in building web application backends in Python and Flask at B2B Product-based companies
+Excellent in communication skills, especially in English, with proficiency in prompting LLMs - Prompt Engineering
+Proficiency in using LLM, leveraging AI Co-Pilots, building AI Agents, context set-up, function calls, tool calls, and integrating them into the application
+Experience with AWS services - EC2, S3, Elastic Beanstalk, Lambda, CodePipeline
+Ability to work with client-side technologies like TypeScript, React.js.
+Experience with containerization technologies such as Docker
+
+
+Minimum Experience: 
+
+Python: 1 year
+Flask framework: 1 year
+Database: 1 year
+AWS: 1 year
+Coding leveraging LLMs/AI CoPilots: 1 year
+React.js - 1 year (optional)
+
+
+Salary: INR 17,00,000 - INR 20,00,000 per annum (based on experience and performance)
+
+
+Benefits:
+We value our employees and strive to create an inclusive and supportive work environment. We understand the importance of attracting and retaining top talent from India. As such, we offer a comprehensive range of generous benefits to ensure their well-being, job satisfaction, and professional growth.
+Competitive Compensation
+Flexible Work Arrangements
+Health Insurance Coverage
+Wellness Programs
+Professional Development
+Generous Paid Time Off
+Employee Stock Options
+Employee Referral Program
+Recognition and Rewards
+Yearly Anniversary Celebrations
+
+
+Join our dynamic and talented team to shape the agentic future of account-based marketing and make a significant impact in the industry. Apply today to become our Software Development Engineer - Python, AWS, and be part of our exciting journey!
+
+
+
+the next round of interview is with this person called mihir so adding a set of details about him so that u can profile him properly :
+Mihir Rane
+ He/Him  2nd degree connection2nd
+Senior Full Stack Engineer at Abmatic AI
+Bengaluru, Karnataka, India  Contact info
+
+Posts
+Jimit MehtaJimit Mehta
+   • 2ndPremium • 2nd
+Agentic Workflows for ABM | Co-Founder & CEO at Abmatic AIAgentic Workflows for ABM | Co-Founder & CEO at Abmatic AI
+4mo •  4 months ago • Visible to anyone on or off LinkedIn
+I hate to brag (lol, jk), but when your customers at Ketch are happy with you, then it is definitely a brag-worthy moment. At Abmatic AI, our goal is to help our customers grow pipeline and revenue more efficiently. And when you deliver exactly on that.... it feels good.
+
+Ketch is a leading data privacy software company that empowers businesses to collect, control, and activate permissioned, privacy-safe data across all devices, systems, and third-party applications. 
+
+Before they joined Abmatic AI, they faced - 
+***Limited Visibility on Website Visitors
+***Inconsistent Data for Personalization
+***Fragmented Intent Signals
+
+With Abmatic AI, they were able to accelerate demand and revenue growth! 
+
+Results - 
+***200% Increase in Signups
+***2X Growth in MQLs
+***More Efficient Sales Targeting
+***Improved Ad Performance
+
+"Abmatic AI is a key player in our pipeline growth stack"
+Thanks so much Colleen Barry and Stéphane Le Mentec!! Your partnership and trust in us means the whole world! 
+Looking forward to helping you grow pipeline and revenue even more!! 
+All of this wouldn't have been possible without my incredible co-founder Dhruvi Naik and our star dev Mihir Rane!
+
+
+
+
+View Mihir Rane’s  graphic link
+Mihir RaneMihir Rane
+ • 2nd2nd
+Senior Full Stack Engineer at Abmatic AISenior Full Stack Engineer at Abmatic AI
+6mo •  6 months ago • Visible to anyone on or off LinkedIn
+
+🚀 Launching AI Agent—and I got promoted to Sr. Full-Stack Engineer! 🎇 
+
+Bringing an AI Agent to life has been an incredible journey. From day one, this project challenged me to combine deep technical problem-solving with customer-centric thinking. Here’s what it took:
+✅ Understanding customer pain points and collaborating with stakeholders to design solutions.
+✅ Implementing complex AI logic using React, Python, and LLMs with RAG (Retrieval-Augmented Generation).
+✅ Scaling and deploying the solution seamlessly on AWS to ensure reliability and performance.
+
+The AI Agent is now empowering users to generate pipeline independantly, and I couldn’t be prouder of the result.
+
+To top it all off, I’m thrilled to share that I’ve been promoted to Sr. Full-Stack Engineer! This milestone is a reminder of how much you can grow when you’re surrounded by an inspiring team and exciting challenges.
+
+
+
+
+Show all posts
+ExperienceExperience
+
+Full-time · 2 yrsFull-time · 2 yrs
+San Francisco, California, United States · RemoteSan Francisco, California, United States · Remote
+Senior Full Stack Engineer
+Jan 2025 - Present · 8 mosJan 2025 to Present · 8 mos
+Full Stack Engineer
+Sep 2023 - Dec 2024 · 1 yr 4 mosSep 2023 to Dec 2024 · 1 yr 4 mos
+Intervue.io logo
+
+Full Stack Engineer (Founding Team)
+Intervue.io · Full-timeIntervue.io · Full-time
+Apr 2023 - Jun 2023 · 3 mosApr 2023 to Jun 2023 · 3 mos
+Bengaluru, Karnataka, India · On-siteBengaluru, Karnataka, India · On-site
+ONE800 logo
+
+Full Stack Engineer (Founding Team)
+ONE800 · Full-timeONE800 · Full-time
+Jan 2022 - Mar 2023 · 1 yr 3 mosJan 2022 to Mar 2023 · 1 yr 3 mos
+Bengaluru, Karnataka, India · On-siteBengaluru, Karnataka, India · On-site
+Freelance Software Development logo
+Freelance Software Engineer
+
+Freelance Software Development · FreelanceFreelance Software Development · Freelance
+Dec 2020 - Dec 2021 · 1 yr 1 moDec 2020 to Dec 2021 · 1 yr 1 mo
+India · RemoteIndia · Remote
+Open Source logo
+Core Contributor, Web Developer, EditorJS (16.3k+ Stars)
+Jun 2020 - Nov 2020 · 6 mosJun 2020 to Nov 2020 · 6 mos
+RemoteRemote
+
+CodeXCodeX
+CodeX is a team of passionate engineers and designers, unifying students, graduates, and other young specialists around the world interested in making high-quality open-source projects and getting a priceless experience of making full-valued products on a global market.CodeX is a team of passionate engineers and designers, unifying students, graduates, and other young specialists around the world interested in making high-quality open-source projects and getting a priceless experience of making full-valued products on a global market.
+EducationEducation
+
+
+Manipal Academy of Higher Education
+Master of Science - MS (Online Mode), Data ScienceMaster of Science - MS (Online Mode), Data Science
+Mar 2023 - Apr 2025Mar 2023 - Apr 2025
+Grade: 9.2/10Grade: 9.2/10
+Ramnarain Ruia College - Mumbai
+Bachelor of Science - BS, Computer ScienceBachelor of Science - BS, Computer Science
+Jun 2017 - Mar 2020Jun 2017 - Mar 2020
+Grade: Avg. CGPA: 9.2/10
+
+so now we want u to 
+frame me a set of question that they can ask me and next round is a online coding round where he will ask me share my screen and complete my assesment 
+so tell me what are different things that i should try implementing also give me a set of question that they can asked me based on the job description 
+have all question in question - answer sytle and also tell me a set of things that during the interview they might ask to answer
+have questions on all the topic that have been mentioned in the jd secition like requirement and responsibility 
+have all question's ready that can be asked at point to someone with decent 2 years of experience
+
+in my last coding round i have to work with a django apllcaitino where i had to code up views.py, model.py url.sy and then codeup multiple routes and end points 
+so that i can add question on this as well so that i can prepare well i have to know everything i can't miss this interview no limit on question all question to be in question - answer type with ouptl of follow up question beasd on that add more question based on interviewer linkeedin profile 
