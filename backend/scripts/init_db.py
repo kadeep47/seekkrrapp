@@ -8,6 +8,7 @@ import os
 sys.path.append(os.path.join(os.path.dirname(__file__), '..', 'src'))
 
 from database.config import engine, Base, test_db_connection, test_redis_connection
+from database.seeds import seed_database
 from common.logging import setup_logging, get_logger
 
 # Setup logging
@@ -15,7 +16,7 @@ setup_logging()
 logger = get_logger(__name__)
 
 
-def init_database():
+def init_database(seed_data: bool = True):
     """Initialize the database."""
     logger.info("Initializing database...")
     
@@ -33,6 +34,12 @@ def init_database():
         Base.metadata.create_all(bind=engine)
         logger.info("Database tables created successfully")
         
+        # Seed database with development data
+        if seed_data:
+            logger.info("Seeding database with development data...")
+            seed_result = seed_database()
+            logger.info(f"Database seeded successfully: {seed_result}")
+        
         return True
         
     except Exception as e:
@@ -41,5 +48,11 @@ def init_database():
 
 
 if __name__ == "__main__":
-    success = init_database()
+    import argparse
+    
+    parser = argparse.ArgumentParser(description="Initialize the database")
+    parser.add_argument("--no-seed", action="store_true", help="Skip seeding development data")
+    args = parser.parse_args()
+    
+    success = init_database(seed_data=not args.no_seed)
     sys.exit(0 if success else 1)

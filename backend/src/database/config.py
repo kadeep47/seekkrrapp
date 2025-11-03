@@ -2,11 +2,13 @@
 
 import os
 from sqlalchemy import create_engine
-from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import sessionmaker
 from sqlalchemy.pool import StaticPool
 import redis
 from typing import Generator
+
+# Import models to ensure they are registered with Base
+from .models import Base
 
 # Database URL from environment
 DATABASE_URL = os.getenv("DATABASE_URL", "postgresql://seeker:dev_password@localhost:5432/seeker_dev")
@@ -24,9 +26,6 @@ engine = create_engine(
 
 # Create SessionLocal class
 SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
-
-# Create Base class for models
-Base = declarative_base()
 
 # Redis connection
 redis_client = redis.from_url(REDIS_URL, decode_responses=True)
