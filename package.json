@@ -1,0 +1,45 @@
+{
+  "name": "seeker-platform",
+  "version": "1.0.0",
+  "description": "Location-based questing platform",
+  "private": true,
+  "workspaces": [
+    "content"
+  ],
+  "scripts": {
+    "dev": "docker-compose up -d",
+    "dev:web": "cd content && npm run dev",
+    "dev:backend": "cd backend && uvicorn main:app --reload",
+    "dev:mobile": "cd apps/mobile && flutter run",
+    "build": "npm run build:web",
+    "build:web": "cd content && npm run build",
+    "build:mobile": "cd apps/mobile && flutter build apk",
+    "test": "npm run test:web && npm run test:backend && npm run test:mobile",
+    "test:web": "cd content && npm test",
+    "test:backend": "cd backend && pytest",
+    "test:mobile": "cd apps/mobile && flutter test",
+    "lint": "npm run lint:web && npm run lint:mobile",
+    "lint:web": "cd content && npm run lint",
+    "lint:mobile": "cd apps/mobile && flutter analyze",
+    "clean": "npm run clean:web && npm run clean:mobile",
+    "clean:web": "cd content && rm -rf node_modules dist",
+    "clean:mobile": "cd apps/mobile && flutter clean",
+    "setup": "npm run setup:web && npm run setup:mobile",
+    "setup:web": "cd content && npm install",
+    "setup:mobile": "cd apps/mobile && flutter pub get"
+  },
+  "keywords": [
+    "location-based",
+    "questing",
+    "mobile",
+    "web",
+    "react",
+    "flutter",
+    "fastapi"
+  ],
+  "author": "Seeker Team",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
