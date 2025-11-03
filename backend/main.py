@@ -136,7 +136,7 @@ async def api_status(request: Request):
             "api_version": "v1",
             "status": "operational",
             "features": {
-                "authentication": "pending",
+                "authentication": "implemented",
                 "user_management": "pending",
                 "quest_system": "pending",
                 "reward_engine": "pending",

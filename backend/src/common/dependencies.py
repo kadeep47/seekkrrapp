@@ -59,33 +59,7 @@ def get_pagination_params(
     }
 
 
-async def get_optional_current_user(
-    credentials: Optional[HTTPAuthorizationCredentials] = Depends(security)
-):
-    """Get current user if authenticated, otherwise None."""
-    if not credentials:
-        return None
-    
-    # TODO: Implement JWT token validation
-    # This will be implemented in the authentication module
-    return None
-
-
-async def get_current_user(
-    credentials: HTTPAuthorizationCredentials = Depends(security)
-):
-    """Get current authenticated user (required)."""
-    if not credentials:
-        raise HTTPException(
-            status_code=status.HTTP_401_UNAUTHORIZED,
-            detail="Authentication required",
-            headers={"WWW-Authenticate": "Bearer"},
-        )
-    
-    # TODO: Implement JWT token validation
-    # This will be implemented in the authentication module
-    raise HTTPException(
-        status_code=status.HTTP_401_UNAUTHORIZED,
-        detail="Authentication not yet implemented",
-        headers={"WWW-Authenticate": "Bearer"},
-    )
+# Authentication dependencies are now in src.auth.dependencies
+# Import them here for backward compatibility
+from src.auth.dependencies import get_current_user_optional as get_optional_current_user
+from src.auth.dependencies import get_current_user
