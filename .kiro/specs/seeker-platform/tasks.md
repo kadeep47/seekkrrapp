@@ -17,7 +17,7 @@ This implementation plan converts the Seeker platform design into a series of ac
   - Set up basic CI/CD pipeline with GitHub Actions
   - _Requirements: 6.1, 6.2_
 
-- [ ] 1.2 Implement backend API foundation with FastAPI
+- [x] 1.2 Implement backend API foundation with FastAPI
   - Create FastAPI application with proper project structure
   - Set up database connection with SQLAlchemy and Alembic migrations
   - Implement Redis connection for caching and sessions
@@ -25,7 +25,7 @@ This implementation plan converts the Seeker platform design into a series of ac
   - Set up OpenAPI documentation generation
   - _Requirements: 6.1, 6.2, 6.3, 6.4_
 
-- [ ] 1.3 Create core database models and relationships
+- [x] 1.3 Create core database models and relationships
   - Implement User, City, Quest, Group, and related models
   - Set up database relationships and foreign key constraints
   - Create Alembic migration files for initial schema
@@ -40,7 +40,7 @@ This implementation plan converts the Seeker platform design into a series of ac
 
 ### 2. Authentication and User Management
 
-- [ ] 2.1 Implement user authentication system
+- [x] 2.1 Implement user authentication system
   - Create user registration endpoint with email validation
   - Implement login endpoint with JWT token generation
   - Add password hashing with bcrypt and security best practices
